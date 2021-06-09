@@ -35,7 +35,6 @@ be avoided by constructinng a temporary array dp[] and memoizing the computed va
 
 ## Questions :
 
-- Knapsack ----> [C++](/Code/C++/knapsack.cpp)
 
 - Kadane's Algorithm ----> [C++](/Code/C++/kadane_algo.cpp)
 
